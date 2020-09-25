@@ -1,0 +1,25 @@
+npx react-native init Yoga108App
+app > assets > images
+             > poses
+    > components > *.js
+
+-- Android setup --
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+
+-- npm --
+npm install react-navigation
+npm install react-navigation-stack @react-native-community/masked-view
+npm install react-native-safe-area-context
+npm install react-native-gesture-handler
+npm install react-native-screens
+
+npm install react-native-sound --save
+react-native link react-native-sound
+
+npm install react-native-fast-image // this may not work..uninstall if its not being used.
+
+$ npx react-native run-android
