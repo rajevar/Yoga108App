@@ -1,0 +1,1316 @@
+[
+  {
+    "key": "Extended Side Angle",
+    "details": {
+      "AsanaSanskrit": "Utthita Pārśvakoṇāsana",
+      "ImageAudName": "utthita_parshvakonasana",
+      "visible": "true",
+      "sanskrit": "उत्थित पार्श्वकोणासन"
+    }
+  },
+  {
+    "key": "Revolved Extended Side Angle",
+    "details": {
+      "AsanaSanskrit": "Parivṛtta Pārśvakoṇāsana",
+      "ImageAudName": "parivritta_parshvakonasana",
+      "visible": "true",
+      "sanskrit": "परिवृत्त पार्श्वकोणासन"
+    }
+  },
+  {
+    "key": "Revolved Triangle",
+    "details": {
+      "AsanaSanskrit": "Parivṛtta Trikoṇāsana",
+      "ImageAudName": "parivritta_trikonasana",
+      "visible": "true",
+      "sanskrit": "परिवृत्त त्रिकोणासन"
+    }
+  },
+  {
+    "key": "Triangle",
+    "details": {
+      "AsanaSanskrit": "Utthita Trikoṇāsana",
+      "ImageAudName": "utthita_trikonasana",
+      "visible": "true",
+      "sanskrit": "उत्थित त्रिकोणासन"
+    }
+  },
+  {
+    "key": "Camel Pose",
+    "details": {
+      "AsanaSanskrit": "Uṣṭrāsana",
+      "ImageAudName": "ushtrasana",
+      "visible": "true",
+      "sanskrit": "उष्ट्रासन"
+    }
+  },
+  {
+    "key": "Chair Pose",
+    "details": {
+      "AsanaSanskrit": "Utkaṭāsana",
+      "ImageAudName": "utkatasana",
+      "visible": "true",
+      "sanskrit": "उत्कटासन"
+    }
+  },
+  {
+    "key": "Hands Under Feet",
+    "details": {
+      "AsanaSanskrit": "Pādahastāsana",
+      "ImageAudName": "padahastasana",
+      "visible": "true",
+      "sanskrit": "पादहस्तासन"
+    }
+  },
+  {
+    "key": "Downward Facing Dog",
+    "details": {
+      "AsanaSanskrit": "Adho Mukha Śvānāsana",
+      "ImageAudName": "adho_mukha_svanasana",
+      "visible": "true",
+      "sanskrit": "अधोमुखश्वानासन"
+    }
+  },
+  {
+    "key": "Upward Facing Dog",
+    "details": {
+      "AsanaSanskrit": "Ūrdhva Mukha Śvānāsana",
+      "ImageAudName": "urdhva_mukha_svanasana",
+      "visible": "true",
+      "sanskrit": "ऊर्ध्वमुखश्वानासन"
+    }
+  },
+  {
+    "key": "Lotus Pose",
+    "details": {
+      "AsanaSanskrit": "Padmāsana",
+      "ImageAudName": "padmasana",
+      "visible": "true",
+      "sanskrit": "पद्मासन"
+    }
+  },
+  {
+    "key": "Big Toe Pose",
+    "details": {
+      "AsanaSanskrit": "Pādānguṣṭhāsana",
+      "ImageAudName": "padangustasana",
+      "visible": "true",
+      "sanskrit": "पादान्गुष्ठासन"
+    }
+  },
+  {
+    "key": "Upward Plank Pose",
+    "details": {
+      "AsanaSanskrit": "Pūrvatānāsana",
+      "ImageAudName": "purvottanasana",
+      "visible": "true",
+      "sanskrit": "पूर्वोत्तानासन"
+    }
+  },
+  {
+    "key": "Equal Standing",
+    "details": {
+      "AsanaSanskrit": "Samasthiti",
+      "ImageAudName": "samasthiti",
+      "visible": "true",
+      "sanskrit": "समस्थितिः"
+    }
+  },
+  {
+    "key": "Mountain Pose",
+    "details": {
+      "AsanaSanskrit": "Ūrdhva Hastāsana",
+      "ImageAudName": "urdhva_hastasana",
+      "visible": "true",
+      "sanskrit": "ऊर्ध्वहस्तासन"
+    }
+  },
+  {
+    "key": "Warrior - 1",
+    "details": {
+      "AsanaSanskrit": "Vīrabhadrāsana - A",
+      "ImageAudName": "veerabadrasana_a",
+      "visible": "true",
+      "sanskrit": "वीरभद्रासन - A"
+    }
+  },
+  {
+    "key": "Warrior - 1-left",
+    "details": {
+      "AsanaSanskrit": "Vīrabhadrāsana - A",
+      "ImageAudName": "veerabadrasana_c",
+      "visible": "false",
+      "sanskrit": "वीरभद्रासन - A"
+    }
+  },
+  {
+    "key": "Warrior - 2",
+    "details": {
+      "AsanaSanskrit": "Vīrabhadrāsana - B",
+      "ImageAudName": "veerabadrasana_b",
+      "visible": "true",
+      "sanskrit": "वीरभद्रासन - B"
+    }
+  },
+  {
+    "key": "Four-Limbed Staff Pose",
+    "details": {
+      "AsanaSanskrit": "Caturaṅga Daṇḍāsana",
+      "ImageAudName": "chaturanga_dandasana",
+      "visible": "true",
+      "sanskrit": "चतुरङ्ग दण्डासन"
+    }
+  },
+  {
+    "key": "Standing Half Forward Bend",
+    "details": {
+      "AsanaSanskrit": "Ardha Uttānāsana",
+      "ImageAudName": "ardha_uttanasana",
+      "visible": "true",
+      "sanskrit": "अर्ध उत्तानासन"
+    }
+  },
+  {
+    "key": "Standing Forward Bend",
+    "details": {
+      "AsanaSanskrit": "Uttānāsana",
+      "ImageAudName": "uttanasana",
+      "visible": "true",
+      "sanskrit": "उत्तानासन"
+    }
+  },
+  {
+    "key": "Wide Leg Forward Fold - A",
+    "details": {
+      "AsanaSanskrit": "Prasārita Pādottānāsana - A",
+      "ImageAudName": "prasarita_padotanasana_a",
+      "visible": "true",
+      "sanskrit": "प्रसारित पादोत्तानासन - A"
+    }
+  },
+  {
+    "key": "Wide Leg Forward Fold - B",
+    "details": {
+      "AsanaSanskrit": "Prasārita Pādottānāsana - B",
+      "ImageAudName": "prasarita_padotanasana_b",
+      "visible": "true",
+      "sanskrit": "प्रसारित पादोत्तानासन - B"
+    }
+  },
+  {
+    "key": "Wide Leg Forward Fold - C",
+    "details": {
+      "AsanaSanskrit": "Prasārita Pādottānāsana - C",
+      "ImageAudName": "prasarita_padotanasana_c",
+      "visible": "true",
+      "sanskrit": "प्रसारित पादोत्तानासन - C"
+    }
+  },
+  {
+    "key": "Wide Leg Forward Fold - D",
+    "details": {
+      "AsanaSanskrit": "Prasārita Pādottānāsana - D",
+      "ImageAudName": "prasarita_padotanasana_d",
+      "visible": "true",
+      "sanskrit": "प्रसारित पादोत्तानासन - D"
+    }
+  },
+  {
+    "key": "Side Intense Stretch",
+    "details": {
+      "AsanaSanskrit": "Pārśvottānāsana",
+      "ImageAudName": "parshvottanasana",
+      "visible": "true",
+      "sanskrit": "पार्श्वोत्तानासन"
+    }
+  },
+  {
+    "key": "Extended Hand to Big Toe - A",
+    "details": {
+      "AsanaSanskrit": "Utthita Hasta Pādāṅguṣṭhāsana - A",
+      "ImageAudName": "utthita_hasta_padangustasana_a",
+      "visible": "true",
+      "sanskrit": "उत्थित हस्त पादान्गुष्ठासन - A"
+    }
+  },
+  {
+    "key": "Extended Hand to Big Toe - B",
+    "details": {
+      "AsanaSanskrit": "Utthita Hasta Pādāṅguṣṭhāsana - B",
+      "ImageAudName": "utthita_hasta_padangustasana_b",
+      "visible": "true",
+      "sanskrit": "उत्थित हस्त पादान्गुष्ठासन - B"
+    }
+  },
+  {
+    "key": "Extended Hand to Big Toe - C",
+    "details": {
+      "AsanaSanskrit": "Utthita Hasta Pādāṅguṣṭhāsana - C",
+      "ImageAudName": "utthita_hasta_padangustasana_c",
+      "visible": "true",
+      "sanskrit": "उत्थित हस्त पादान्गुष्ठासन - C"
+    }
+  },
+  {
+    "key": "Half Bound Lotus Standing Forward Bend",
+    "details": {
+      "AsanaSanskrit": "Ardha Baddha Padmottānāsana",
+      "ImageAudName": "ardha_badha_padmottanasana",
+      "visible": "true",
+      "sanskrit": "अर्ध बद्ध पद्मोत्तानासन"
+    }
+  },
+  {
+    "key": "Staff Pose",
+    "details": {
+      "AsanaSanskrit": "Daṇḍāsana",
+      "ImageAudName": "dandasana",
+      "visible": "true",
+      "sanskrit": "दण्डासन"
+    }
+  },
+  {
+    "key": "Seated Forward Bend - A",
+    "details": {
+      "AsanaSanskrit": "Paścimatānāsana - A",
+      "ImageAudName": "paschimottanasana_a",
+      "visible": "true",
+      "sanskrit": "पश्चिमोत्तानासन - A"
+    }
+  },
+  {
+    "key": "Seated Forward Bend - B",
+    "details": {
+      "AsanaSanskrit": "Paścimatānāsana - B",
+      "ImageAudName": "paschimottanasana_b",
+      "visible": "true",
+      "sanskrit": "पश्चिमोत्तानासन - B"
+    }
+  },
+  {
+    "key": "Sitting Forward Bend with Half Bound Lotus",
+    "details": {
+      "AsanaSanskrit": "Ardha Baddha Padma Paścimatānāsana",
+      "ImageAudName": "ardha_baddha_padma_paschimottanasana",
+      "visible": "true",
+      "sanskrit": "अर्ध बद्ध पद्म पश्चिमोत्तानासन"
+    }
+  },
+  {
+    "key": "Three Limbed Seated Forward Bend",
+    "details": {
+      "AsanaSanskrit": "Tiryaṅ Mukha Eka Pāda Paścimatānāsana",
+      "ImageAudName": "tiryam_mukha_eka_pada_paschimottanasana",
+      "visible": "true",
+      "sanskrit": "तिर्यंमुख एकपाद पश्चिमोत्तानासन"
+    }
+  },
+  {
+    "key": "Head To Knee Pose - A",
+    "details": {
+      "AsanaSanskrit": "Jānu Śīrṣāsana - A",
+      "ImageAudName": "janusirasana_a",
+      "visible": "true",
+      "sanskrit": "जानु शीर्षासन - A"
+    }
+  },
+  {
+    "key": "Head To Knee Pose - B",
+    "details": {
+      "AsanaSanskrit": "Jānu Śīrṣāsana - B",
+      "ImageAudName": "janusirasana_b",
+      "visible": "true",
+      "sanskrit": "जानु शीर्षासन - B"
+    }
+  },
+  {
+    "key": "Head To Knee Pose - C",
+    "details": {
+      "AsanaSanskrit": "Jānu Śīrṣāsana - C",
+      "ImageAudName": "janusirasana_c",
+      "visible": "true",
+      "sanskrit": "जानु शीर्षासन - C"
+    }
+  },
+  {
+    "key": "Posture of Marichi - A",
+    "details": {
+      "AsanaSanskrit": "Marīcāsana - A",
+      "ImageAudName": "marichyasana_a",
+      "visible": "true",
+      "sanskrit": "मरीच्यासन - A"
+    }
+  },
+  {
+    "key": "Posture of Marichi - B",
+    "details": {
+      "AsanaSanskrit": "Marīcāsana - B",
+      "ImageAudName": "marichyasana_b",
+      "visible": "true",
+      "sanskrit": "मरीच्यासन - B"
+    }
+  },
+  {
+    "key": "Posture of Marichi - C",
+    "details": {
+      "AsanaSanskrit": "Marīcāsana - C",
+      "ImageAudName": "marichyasana_c",
+      "visible": "true",
+      "sanskrit": "मरीच्यासन - C"
+    }
+  },
+  {
+    "key": "Posture of Marichi - D",
+    "details": {
+      "AsanaSanskrit": "Marīcāsana - D",
+      "ImageAudName": "marichyasana_d",
+      "visible": "true",
+      "sanskrit": "मरीच्यासन - D"
+    }
+  },
+  {
+    "key": "Boat Pose",
+    "details": {
+      "AsanaSanskrit": "Nāvāsana",
+      "ImageAudName": "navasana",
+      "visible": "true",
+      "sanskrit": "नावासन"
+    }
+  },
+  {
+    "key": "Arm Pressure Pose",
+    "details": {
+      "AsanaSanskrit": "Bhuja Pīḍāsana",
+      "ImageAudName": "bhuja_pidasana",
+      "visible": "true",
+      "sanskrit": "भुजपीडासन"
+    }
+  },
+  {
+    "key": "Turtle Pose",
+    "details": {
+      "AsanaSanskrit": "Kūrmāsana",
+      "ImageAudName": "kurmasana",
+      "visible": "true",
+      "sanskrit": "कूर्मासन"
+    }
+  },
+  {
+    "key": "King Pigeon Pose",
+    "details": {
+      "AsanaSanskrit": "Kapotāsana",
+      "ImageAudName": "kapotasana",
+      "visible": "true",
+      "sanskrit": "कपोतासन"
+    }
+  },
+  {
+    "key": "Peacock in Lotus Pose",
+    "details": {
+      "AsanaSanskrit": "Mayūrā Padmāsana",
+      "ImageAudName": "mayura_padmasana",
+      "visible": "true",
+      "sanskrit": "मयूरपद्मासन"
+    }
+  },
+  {
+    "key": "Lord of the Dance Pose",
+    "details": {
+      "AsanaSanskrit": "Naṭarājāsana",
+      "ImageAudName": "natarajasana",
+      "visible": "true",
+      "sanskrit": "नटराजासन"
+    }
+  },
+  {
+    "key": "Cow Face Pose",
+    "details": {
+      "AsanaSanskrit": "Gomukhāsana",
+      "ImageAudName": "gomukasana",
+      "visible": "true",
+      "sanskrit": "गोमुखासन"
+    }
+  },
+  {
+    "key": "Low Lunge Pose",
+    "details": {
+      "AsanaSanskrit": "Āñjaneyāsana",
+      "ImageAudName": "anjaneyasana",
+      "visible": "true",
+      "sanskrit": "अंजनेयासन"
+    }
+  },
+  {
+    "key": "Side Crow",
+    "details": {
+      "AsanaSanskrit": "Pārśva Bakāsana",
+      "ImageAudName": "parshva_bakasana",
+      "visible": "true",
+      "sanskrit": "पार्श्वबकासन"
+    }
+  },
+  {
+    "key": "Half Moon Pose",
+    "details": {
+      "AsanaSanskrit": "Ardha Chandrāsana",
+      "ImageAudName": "ardha_chandrasana",
+      "visible": "true",
+      "sanskrit": "अर्धचन्द्रासन"
+    }
+  },
+  {
+    "key": "Tree Pose",
+    "details": {
+      "AsanaSanskrit": "Vṛkṣāsana",
+      "ImageAudName": "vrikshasana",
+      "visible": "true",
+      "sanskrit": "वृक्षासन"
+    }
+  },
+  {
+    "key": "Happy Baby Pose",
+    "details": {
+      "AsanaSanskrit": "Ānanda Bālasana",
+      "ImageAudName": "ananda_balasana",
+      "visible": "true",
+      "sanskrit": "आनन्दबालासन"
+    }
+  },
+  {
+    "key": "Hand Stand",
+    "details": {
+      "AsanaSanskrit": "Adho Mukha Vṛkṣāsana",
+      "ImageAudName": "adho_mukha_vrikshasana",
+      "visible": "true",
+      "sanskrit": "अधोमुखवृक्षासन"
+    }
+  },
+  {
+    "key": "One Legged King Pigeon",
+    "details": {
+      "AsanaSanskrit": "Eka Pāda Rājakapotāsana",
+      "ImageAudName": "eka_pada_rajakapotasana",
+      "visible": "true",
+      "sanskrit": "एकपादराजकपोतासन"
+    }
+  },
+  {
+    "key": "Bird in Paradise",
+    "details": {
+      "AsanaSanskrit": "Svarga Dvidasana",
+      "ImageAudName": "svarga_dvidasana",
+      "visible": "true",
+      "sanskrit": "स्वर्गद्विदासन"
+    }
+  },
+  {
+    "key": "Firefly pose",
+    "details": {
+      "AsanaSanskrit": "Tiṭṭibhāsana",
+      "ImageAudName": "tittibasana",
+      "visible": "true",
+      "sanskrit": "टिट्टिभासन"
+    }
+  },
+  {
+    "key": "Reclining Turtle Pose",
+    "details": {
+      "AsanaSanskrit": "Supta Kūrmāsana",
+      "ImageAudName": "supta_kurmasana",
+      "visible": "true",
+      "sanskrit": "सुप्तकूर्मासन"
+    }
+  },
+  {
+    "key": "Embryo in the Womb Pose",
+    "details": {
+      "AsanaSanskrit": "Garbha Piṇḍāsana",
+      "ImageAudName": "garbha_pindasana",
+      "visible": "true",
+      "sanskrit": "गर्भपिण्डासन"
+    }
+  },
+  {
+    "key": "Rooster Pose",
+    "details": {
+      "AsanaSanskrit": "Kukkuṭāsana",
+      "ImageAudName": "kukkutasana",
+      "visible": "true",
+      "sanskrit": "कुक्कुटासन"
+    }
+  },
+  {
+    "key": "Bound Angle Seat Pose - A",
+    "details": {
+      "AsanaSanskrit": "Baddha Koṇāsana - A",
+      "ImageAudName": "baddha_konasana_a",
+      "visible": "true",
+      "sanskrit": "बद्धकोणासन - A"
+    }
+  },
+  {
+    "key": "Bound Angle Seat Pose - B",
+    "details": {
+      "AsanaSanskrit": "Baddha Koṇāsana - B",
+      "ImageAudName": "baddha_konasana_b",
+      "visible": "true",
+      "sanskrit": "बद्धकोणासन - B"
+    }
+  },
+  {
+    "key": "Bound Angle Seat Pose - C",
+    "details": {
+      "AsanaSanskrit": "Baddha Koṇāsana - C",
+      "ImageAudName": "baddha_konasana_c",
+      "visible": "true",
+      "sanskrit": "बद्धकोणासन - C"
+    }
+  },
+  {
+    "key": "Seated Wide Angle Forward Fold",
+    "details": {
+      "AsanaSanskrit": "Upaviṣṭha Koṇāsana - A",
+      "ImageAudName": "upavishta_konasana_a",
+      "visible": "true",
+      "sanskrit": "उपविष्ठकोणासन - A"
+    }
+  },
+  {
+    "key": "Seated Wide Angle",
+    "details": {
+      "AsanaSanskrit": "Upaviṣṭha Koṇāsana - B",
+      "ImageAudName": "upavishta_konasana_b",
+      "visible": "true",
+      "sanskrit": "उपविष्ठकोणासन - B"
+    }
+  },
+  {
+    "key": "Reclining Seated Wide Angle",
+    "details": {
+      "AsanaSanskrit": "Supta Koṇāsana",
+      "ImageAudName": "supta_konasana",
+      "visible": "true",
+      "sanskrit": "सुप्तकोणासन"
+    }
+  },
+  {
+    "key": "Reclining Big Toe Pose",
+    "details": {
+      "AsanaSanskrit": "Supta Pādāṅguṣṭhāsana",
+      "ImageAudName": "supta_padangustasana",
+      "visible": "true",
+      "sanskrit": "सुप्त पादान्गुष्ठासन"
+    }
+  },
+  {
+    "key": "Reclining Big Toe Side Strech",
+    "details": {
+      "AsanaSanskrit": "Supta Pārśvasahita",
+      "ImageAudName": "supta_parshvasahita",
+      "visible": "true",
+      "sanskrit": "सुप्तपार्श्वसहित"
+    }
+  },
+  {
+    "key": "Both Big Toes Pose",
+    "details": {
+      "AsanaSanskrit": "Ubhaya Pādāṅguṣṭhāsana",
+      "ImageAudName": "ubhaya_padangusthasana",
+      "visible": "true",
+      "sanskrit": "उभयपादान्गुष्ठासन"
+    }
+  },
+  {
+    "key": "Upward Facing Seated Forward Fold",
+    "details": {
+      "AsanaSanskrit": "Ūrdhva Mukha Paścimatānāsana",
+      "ImageAudName": "urdhva_mukha_paschimottanasana",
+      "visible": "true",
+      "sanskrit": "ऊर्ध्वमुखपश्चिमोत्तानासन"
+    }
+  },
+  {
+    "key": "Bridge Pose",
+    "details": {
+      "AsanaSanskrit": "Setu Bandhāsana",
+      "ImageAudName": "setu_bandhasana",
+      "visible": "true",
+      "sanskrit": "सेतुबन्धासन"
+    }
+  },
+  {
+    "key": "Suppported Shoulderstand",
+    "details": {
+      "AsanaSanskrit": "Salamba Sarvāṅgāsana",
+      "ImageAudName": "salamba_sarvangasana",
+      "visible": "true",
+      "sanskrit": "सालम्बसर्वाङ्गासन"
+    }
+  },
+  {
+    "key": "Upward Bow Pose",
+    "details": {
+      "AsanaSanskrit": "Ūrdhva Dhanurāsana",
+      "ImageAudName": "urdhva_dhanurasana",
+      "visible": "true",
+      "sanskrit": "ऊर्ध्वधनुरासन"
+    }
+  },
+  {
+    "key": "Eight Angle Pose",
+    "details": {
+      "AsanaSanskrit": "Aṣṭavakrāsana",
+      "ImageAudName": "ashtavakrasana",
+      "visible": "true",
+      "sanskrit": "अष्टवक्रासन"
+    }
+  },
+  {
+    "key": "Plow Pose",
+    "details": {
+      "AsanaSanskrit": "Halāsana",
+      "ImageAudName": "halasana",
+      "visible": "true",
+      "sanskrit": "हलासन"
+    }
+  },
+  {
+    "key": "Ear Pressure Pose",
+    "details": {
+      "AsanaSanskrit": "Karṇa Pīḍāsana",
+      "ImageAudName": "karnapidasana",
+      "visible": "true",
+      "sanskrit": "कर्णपीडासन"
+    }
+  },
+  {
+    "key": "Upward Lotus",
+    "details": {
+      "AsanaSanskrit": "Ūrdhva Padmāsana",
+      "ImageAudName": "urdhva_padmasana",
+      "visible": "true",
+      "sanskrit": "ऊर्ध्वपद्मासन"
+    }
+  },
+  {
+    "key": "Embryo Pose",
+    "details": {
+      "AsanaSanskrit": "Piṇḍāsana",
+      "ImageAudName": "pindasana",
+      "visible": "true",
+      "sanskrit": "पिण्डासन"
+    }
+  },
+  {
+    "key": "Fish Pose",
+    "details": {
+      "AsanaSanskrit": "Matsyāsana",
+      "ImageAudName": "matsyasana",
+      "visible": "true",
+      "sanskrit": "मत्स्यासन"
+    }
+  },
+  {
+    "key": "Intense Stretched Feet",
+    "details": {
+      "AsanaSanskrit": "Uttāna Pādāsana",
+      "ImageAudName": "uttana_padasana",
+      "visible": "true",
+      "sanskrit": "उत्तान पादासन"
+    }
+  },
+  {
+    "key": "Headstand",
+    "details": {
+      "AsanaSanskrit": "Śīrṣāsana",
+      "ImageAudName": "sirsasana",
+      "visible": "true",
+      "sanskrit": "शीर्षासन"
+    }
+  },
+  {
+    "key": "Upward-Facing Staff Pose",
+    "details": {
+      "AsanaSanskrit": "Ūrdhva Daṇḍāsana",
+      "ImageAudName": "urdhva_dandasana",
+      "visible": "true",
+      "sanskrit": "ऊर्ध्व दण्डासन"
+    }
+  },
+  {
+    "key": "Child Pose",
+    "details": {
+      "AsanaSanskrit": "Bālāsana",
+      "ImageAudName": "baalasana",
+      "visible": "true",
+      "sanskrit": "बालासन"
+    }
+  },
+  {
+    "key": "Bound Lotus Pose",
+    "details": {
+      "AsanaSanskrit": "Baddha Padmāsana",
+      "ImageAudName": "baddha_padmasana",
+      "visible": "true",
+      "sanskrit": "बद्ध पद्मासन"
+    }
+  },
+  {
+    "key": "Yogic Seal",
+    "details": {
+      "AsanaSanskrit": "Yoga Mudrā",
+      "ImageAudName": "yoga_mudra",
+      "visible": "true",
+      "sanskrit": "योगमुद्रा"
+    }
+  },
+  {
+    "key": "Scales Pose",
+    "details": {
+      "AsanaSanskrit": "Utpluti",
+      "ImageAudName": "utpluthih",
+      "visible": "true",
+      "sanskrit": "उत्प्लुतिः"
+    }
+  },
+  {
+    "key": "shiv_Corpse Pose",
+    "details": {
+      "AsanaSanskrit": "Śavāsana",
+      "ImageAudName": "shiv_savasana",
+      "visible": "false",
+      "sanskrit": "शवासन"
+    }
+  },
+  {
+    "key": "shiv_Paranamasana",
+    "details": {
+      "AsanaSanskrit": "Pranamāsana",
+      "ImageAudName": "shiv_pranamasana",
+      "visible": "false",
+      "sanskrit": "प्राणामासन"
+    }
+  },
+  {
+    "key": "shiv_Raised Arms Pose",
+    "details": {
+      "AsanaSanskrit": "Hasta Uttānāsana",
+      "ImageAudName": "shiv_hasta_uttanasana",
+      "visible": "false",
+      "sanskrit": "हस्तउत्तानासन"
+    }
+  },
+  {
+    "key": "shiv_Standing Forward Bend",
+    "details": {
+      "AsanaSanskrit": "Uttānāsana",
+      "ImageAudName": "shiv_uttanasana",
+      "visible": "false",
+      "sanskrit": "उत्तानासन"
+    }
+  },
+  {
+    "key": "shiv_Low Lunge",
+    "details": {
+      "AsanaSanskrit": "Āñjaneyāsana",
+      "ImageAudName": "shiv_anjaneyasana",
+      "visible": "false",
+      "sanskrit": "अंजनेयासन"
+    }
+  },
+  {
+    "key": "shiv_Eight Limbed Staff Pose",
+    "details": {
+      "AsanaSanskrit": "Aṣṭāṅga Daṇḍāsana",
+      "ImageAudName": "shiv_ashtanga_dandasana",
+      "visible": "false",
+      "sanskrit": "अष्टागदण्डासन"
+    }
+  },
+  {
+    "key": "shiv_Upward Facing Dog",
+    "details": {
+      "AsanaSanskrit": "Ūrdhva Mukha Śvānāsana",
+      "ImageAudName": "shiv_urdhva_mukha_svanasana",
+      "visible": "false",
+      "sanskrit": "ऊर्ध्वमुखश्वानासन"
+    }
+  },
+  {
+    "key": "shiv_Downward Facing Dog",
+    "details": {
+      "AsanaSanskrit": "Adho Mukha Śvānāsana",
+      "ImageAudName": "shiv_adho_mukha_svanasana",
+      "visible": "false",
+      "sanskrit": "अधोमुखश्वानासन"
+    }
+  },
+  {
+    "key": "shiv_Low Lunge_Right",
+    "details": {
+      "AsanaSanskrit": "Āñjaneyāsana",
+      "ImageAudName": "shiv_anjaneyasana_b",
+      "visible": "false",
+      "sanskrit": "अंजनेयासन"
+    }
+  },
+  {
+    "key": "shiv_Headstand",
+    "details": {
+      "AsanaSanskrit": "Śīrṣāsana",
+      "ImageAudName": "shiv_sirsasana",
+      "visible": "false",
+      "sanskrit": "शीर्षासन"
+    }
+  },
+  {
+    "key": "shiv_Shoulerstand",
+    "details": {
+      "AsanaSanskrit": "Salamba Sarvāṅgāsana",
+      "ImageAudName": "shiv_salamba_sarvangasana",
+      "visible": "false",
+      "sanskrit": "सालम्बसर्वाङ्गासन"
+    }
+  },
+  {
+    "key": "shiv_Bridge Pose",
+    "details": {
+      "AsanaSanskrit": "Setu Bandhāsana",
+      "ImageAudName": "shiv_setu_bandhasana",
+      "visible": "false",
+      "sanskrit": "सेतुबन्धासन"
+    }
+  },
+  {
+    "key": "shiv_Plough Pose",
+    "details": {
+      "AsanaSanskrit": "Halāsana",
+      "ImageAudName": "shiv_halasana",
+      "visible": "false",
+      "sanskrit": "हलासन"
+    }
+  },
+  {
+    "key": "shiv_Fish Pose",
+    "details": {
+      "AsanaSanskrit": "Matsyāsana",
+      "ImageAudName": "shiv_matsyasana",
+      "visible": "false",
+      "sanskrit": "मत्स्यासन"
+    }
+  },
+  {
+    "key": "shiv_Seated Forward Bend",
+    "details": {
+      "AsanaSanskrit": "Paścimatānāsana",
+      "ImageAudName": "shiv_paschimottanasana",
+      "visible": "false",
+      "sanskrit": "पश्चिमोत्तानासन"
+    }
+  },
+  {
+    "key": "shiv_Cobra Pose",
+    "details": {
+      "AsanaSanskrit": "Bhujaṅgāsana",
+      "ImageAudName": "shiv_bhujangasana",
+      "visible": "false",
+      "sanskrit": "भुजङ्गासन"
+    }
+  },
+  {
+    "key": "shiv_Locust Pose",
+    "details": {
+      "AsanaSanskrit": "Śalabhāsana",
+      "ImageAudName": "shiv_salabhasana",
+      "visible": "false",
+      "sanskrit": "भुजङ्गासन"
+    }
+  },
+  {
+    "key": "shiv_Bow Pose",
+    "details": {
+      "AsanaSanskrit": "Dhanurāsana",
+      "ImageAudName": "shiv_dhanurasana",
+      "visible": "false",
+      "sanskrit": "धनुरासन"
+    }
+  },
+  {
+    "key": "shiv_Half Spinal Twist",
+    "details": {
+      "AsanaSanskrit": "Ardha Matsyendrāsana",
+      "ImageAudName": "shiv_ardha_matsyendrasana",
+      "visible": "false",
+      "sanskrit": "अर्धमत्स्येन्द्रासन"
+    }
+  },
+  {
+    "key": "shiv_Crow Pose",
+    "details": {
+      "AsanaSanskrit": "Kākāsana",
+      "ImageAudName": "shiv_kakkasana",
+      "visible": "false",
+      "sanskrit": "काकासन"
+    }
+  },
+  {
+    "key": "Crane Pose",
+    "details": {
+      "AsanaSanskrit": "Bakāsana",
+      "ImageAudName": "bakasana",
+      "visible": "true",
+      "sanskrit": "बकासन"
+    }
+  },
+  {
+    "key": "One Legged Crane Pose",
+    "details": {
+      "AsanaSanskrit": "Eka Pāda Bakāsana",
+      "ImageAudName": "eka_pada_bakasana",
+      "visible": "true",
+      "sanskrit": "बकासन"
+    }
+  },
+  {
+    "key": "shiv_Hands To Feet Pose",
+    "details": {
+      "AsanaSanskrit": "Pādahastāsana",
+      "ImageAudName": "shiv_padahastasana",
+      "visible": "false",
+      "sanskrit": "पादहस्तासन"
+    }
+  },
+  {
+    "key": "shiv_Triangle Pose",
+    "details": {
+      "AsanaSanskrit": "Trikoṇāsana",
+      "ImageAudName": "shiv_trikonasana",
+      "visible": "false",
+      "sanskrit": "त्रिकोणासन"
+    }
+  },
+  {
+    "key": "bkrm_Eagle Pose",
+    "details": {
+      "AsanaSanskrit": "Garuḍāsana",
+      "ImageAudName": "bkrm_garudasana",
+      "visible": "false",
+      "sanskrit": "गरुडासन"
+    }
+  },
+  {
+    "key": "Eagle Pose",
+    "details": {
+      "AsanaSanskrit": "Garuḍāsana",
+      "ImageAudName": "garudasana",
+      "visible": "true",
+      "sanskrit": "गरुडासन"
+    }
+  },
+  {
+    "key": "bkrm_Standing Deep Breathing",
+    "details": {
+      "AsanaSanskrit": "Prāṇāyāma",
+      "ImageAudName": "bkrm_pranayama",
+      "visible": "false",
+      "sanskrit": "प्राणायाम"
+    }
+  },
+  {
+    "key": "bkrm_Half Moon Pose",
+    "details": {
+      "AsanaSanskrit": "Ardha Chandrāsana",
+      "ImageAudName": "bkrm_ardha_chandrasana",
+      "visible": "false",
+      "sanskrit": "अर्धचन्द्रासन"
+    }
+  },
+  {
+    "key": "bkrm_Awkward Pose",
+    "details": {
+      "AsanaSanskrit": "Utkaṭāsana",
+      "ImageAudName": "bkrm_utkatasana",
+      "visible": "false",
+      "sanskrit": "उत्कटासन"
+    }
+  },
+  {
+    "key": "bkrm_Standing Head To Knee Pose",
+    "details": {
+      "AsanaSanskrit": "Daṇḍāyamana Jānuśīrṣāsana",
+      "ImageAudName": "bkrm_dandayamana_janushirasana",
+      "visible": "false",
+      "sanskrit": "दण्डायमन जानुशीर्षासन"
+    }
+  },
+  {
+    "key": "bkrm_Standing Bow Pose",
+    "details": {
+      "AsanaSanskrit": "Daṇḍāyamana Dhanurāsana",
+      "ImageAudName": "bkrm_dandayamana_dhanurasana",
+      "visible": "false",
+      "sanskrit": "दण्डायमन धनुरासन"
+    }
+  },
+  {
+    "key": "bkrm_Balancing Stick Pose",
+    "details": {
+      "AsanaSanskrit": "Tuladandasana",
+      "ImageAudName": "bkrm_tuladandasana",
+      "visible": "false",
+      "sanskrit": "तुलादण्डासन"
+    }
+  },
+  {
+    "key": "Balancing Stick Pose",
+    "details": {
+      "AsanaSanskrit": "Tulādaṇḍāsana",
+      "ImageAudName": "tuladandasana",
+      "visible": "true",
+      "sanskrit": "तुलादण्डासन"
+    }
+  },
+  {
+    "key": "bkrm_Standing Separate Leg Stretching Pose",
+    "details": {
+      "AsanaSanskrit": "Daṇḍāyamana Bibhaktapāda Paścimatānāsana",
+      "ImageAudName": "bkrm_dandayamana_bibhaktapada_paschimotthanasana",
+      "visible": "false",
+      "sanskrit": "दण्डायमन विभक्तपाद पश्चिमोत्तानासन"
+    }
+  },
+  {
+    "key": "bkrm_Triangle Pose",
+    "details": {
+      "AsanaSanskrit": "Trikoṇāsana",
+      "ImageAudName": "bkrm_trikonasana",
+      "visible": "false",
+      "sanskrit": "त्रिकोणासन"
+    }
+  },
+  {
+    "key": "bkrm_Standing Separate Leg Head To Knee Pose",
+    "details": {
+      "AsanaSanskrit": "Daṇḍāyamana Bibhaktapāda Jānuśīrṣāsana",
+      "ImageAudName": "bkrm_dandayamana_bibhaktapada_janushirasana",
+      "visible": "false",
+      "sanskrit": "दण्डायमन विभक्तपाद जानुशीर्षासन"
+    }
+  },
+  {
+    "key": "bkrm_Tree Pose",
+    "details": {
+      "AsanaSanskrit": "Tāḍāsana",
+      "ImageAudName": "bkrm_tadasana",
+      "visible": "false",
+      "sanskrit": "ताडासन"
+    }
+  },
+  {
+    "key": "bkrm_Toe Stand",
+    "details": {
+      "AsanaSanskrit": "Pādāṅguṣṭhāsana",
+      "ImageAudName": "bkrm_padangustasana",
+      "visible": "false",
+      "sanskrit": "पादान्गुष्ठासन"
+    }
+  },
+  {
+    "key": "bkrm_Corpse Pose",
+    "details": {
+      "AsanaSanskrit": "Śavāsana",
+      "ImageAudName": "bkrm_savasana",
+      "visible": "false",
+      "sanskrit": "शवासन"
+    }
+  },
+  {
+    "key": "bkrm_Wind Removing Pose",
+    "details": {
+      "AsanaSanskrit": "Pavanamuktasana",
+      "ImageAudName": "bkrm_pavanamuktasana",
+      "visible": "false",
+      "sanskrit": "पवनमुक्तासन"
+    }
+  },
+  {
+    "key": "bkrm_Sit Up",
+    "details": {
+      "AsanaSanskrit": "Pādahastāsana",
+      "ImageAudName": "bkrm_padahastasana",
+      "visible": "false",
+      "sanskrit": "पादहस्तासन"
+    }
+  },
+  {
+    "key": "Wind Removing Pose",
+    "details": {
+      "AsanaSanskrit": "Pavanamuktasana",
+      "ImageAudName": "pavanamuktasana",
+      "visible": "true",
+      "sanskrit": "पादहस्तासन"
+    }
+  },
+  {
+    "key": "Cobra Pose",
+    "details": {
+      "AsanaSanskrit": "Bhujañgāsana",
+      "ImageAudName": "bhujangasana",
+      "visible": "true",
+      "sanskrit": "भुजङ्गासन"
+    }
+  },
+  {
+    "key": "bkrm_Cobra Pose",
+    "details": {
+      "AsanaSanskrit": "Bhujaṅgāsana",
+      "ImageAudName": "bkrm_bhujangasana",
+      "visible": "false",
+      "sanskrit": "भुजङ्गासन"
+    }
+  },
+  {
+    "key": "bkrm_Locust Pose",
+    "details": {
+      "AsanaSanskrit": "Śalabhāsana",
+      "ImageAudName": "bkrm_salabhasana",
+      "visible": "false",
+      "sanskrit": "शलभासन"
+    }
+  },
+  {
+    "key": "Locust Pose",
+    "details": {
+      "AsanaSanskrit": "Śalabhāsana",
+      "ImageAudName": "salabhasana",
+      "visible": "false",
+      "sanskrit": "शलभासन"
+    }
+  },
+  {
+    "key": "bkrm_Full Locust Pose",
+    "details": {
+      "AsanaSanskrit": "Pūrṇa Śalabhāsana",
+      "ImageAudName": "bkrm_poorna_salabhasana",
+      "visible": "false",
+      "sanskrit": "पूर्णशलभासन"
+    }
+  },
+  {
+    "key": "Full Locust Pose",
+    "details": {
+      "AsanaSanskrit": "Pūrṇa Śalabhāsana",
+      "ImageAudName": "poorna_salabhasana",
+      "visible": "true",
+      "sanskrit": "पूर्णशलभासन"
+    }
+  },
+  {
+    "key": "Bow Pose",
+    "details": {
+      "AsanaSanskrit": "Dhanurāsana",
+      "ImageAudName": "dhanurasana",
+      "visible": "true",
+      "sanskrit": "धनुरासन"
+    }
+  },
+  {
+    "key": "bkrm_Bow Pose",
+    "details": {
+      "AsanaSanskrit": "Dhanurāsana",
+      "ImageAudName": "bkrm_dhanurasana",
+      "visible": "false",
+      "sanskrit": "धनुरासन"
+    }
+  },
+  {
+    "key": "bkrm_Fixed Firm Pose",
+    "details": {
+      "AsanaSanskrit": "Supta Vajrāsana",
+      "ImageAudName": "bkrm_supta_vajrasana",
+      "visible": "false",
+      "sanskrit": "सुप्तवज्रासन"
+    }
+  },
+  {
+    "key": "bkrm_Half Tortoise Pose",
+    "details": {
+      "AsanaSanskrit": "Ardha Kūrmāsana",
+      "ImageAudName": "bkrm_ardha_kurmasana",
+      "visible": "false",
+      "sanskrit": "अर्धकूर्मासन"
+    }
+  },
+  {
+    "key": "bkrm_Camel Pose",
+    "details": {
+      "AsanaSanskrit": "Uṣṭrāsana",
+      "ImageAudName": "bkrm_ushtrasana",
+      "visible": "false",
+      "sanskrit": "उष्ट्रासन"
+    }
+  },
+  {
+    "key": "bkrm_Rabbit Pose",
+    "details": {
+      "AsanaSanskrit": "Śaśakāsana",
+      "ImageAudName": "bkrm_sasangasana",
+      "visible": "false",
+      "sanskrit": "शसांगासना"
+    }
+  },
+  {
+    "key": "Rabbit Pose",
+    "details": {
+      "AsanaSanskrit": "Śaśakāsana",
+      "ImageAudName": "sasangasana",
+      "visible": "true",
+      "sanskrit": "शसांगासना"
+    }
+  },
+  {
+    "key": "bkrm_Head To Knee Pose",
+    "details": {
+      "AsanaSanskrit": "Jānu Śīrṣāsana",
+      "ImageAudName": "bkrm_janushirasana",
+      "visible": "false",
+      "sanskrit": "जानुशीर्षासन"
+    }
+  },
+  {
+    "key": "bkrm_Spine Twisting Pose",
+    "details": {
+      "AsanaSanskrit": "Ardha Matsyendrāsana",
+      "ImageAudName": "bkrm_ardha_matsyendrasana",
+      "visible": "false",
+      "sanskrit": "अर्धमत्स्येन्द्रासन"
+    }
+  },
+  {
+    "key": "Half Spinal Twist Pose",
+    "details": {
+      "AsanaSanskrit": "Ardha Matsyendrāsana",
+      "ImageAudName": "ardha_matsyendrasana",
+      "visible": "true",
+      "sanskrit": "अर्धमत्स्येन्द्रासन"
+    }
+  },
+  {
+    "key": "bkrm_Blowing Firm Pose",
+    "details": {
+      "AsanaSanskrit": "Vajrāsana",
+      "ImageAudName": "bkrm_vajrasana",
+      "visible": "false",
+      "sanskrit": "वज्रासन"
+    }
+  },
+  {
+    "key": "Corpse Pose",
+    "details": {
+      "AsanaSanskrit": "Śavāsana",
+      "ImageAudName": "savasana",
+      "visible": "true",
+      "sanskrit": "शवासन"
+    }
+  }
+]
