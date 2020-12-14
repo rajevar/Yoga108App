@@ -11,7 +11,7 @@ import PosesImages from './PosesImages.js';
 import NamesDictionary from '../assets/NamesDictionary.json';
 import Constants from './Constants.js';
 import GestureRecognizer from 'react-native-swipe-gestures';
-import Play from './common/AudioPlayer.js';
+import Play, { release } from './common/AudioPlayer.js';
 
 const screenWidth = Math.round(Dimensions.get('window').width);
 const screenHeight = Math.round(Dimensions.get('window').height);
@@ -28,6 +28,9 @@ const DisplayPose = ({ navigation }) => {
     console.log("useEffect DisplayPose " + poseInfo.details.AsanaSanskrit);
     let pose = NamesDictionary[poseIndex];
     setPoseInfo(pose);
+    return () => {
+      release();
+    }
   }, [poseIndex]);
 
   const config = {

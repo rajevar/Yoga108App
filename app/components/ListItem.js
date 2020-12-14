@@ -1,19 +1,27 @@
-import React from 'react';
-import {View, Text, Image, StyleSheet} from 'react-native';
+import React, { Component, PureComponent } from 'react';
+import { View, Text, Image, StyleSheet } from 'react-native';
 import PosesImages from './PosesImages';
 
-const ListItem = ({poseInfo}) => {
-  return (
-    <View style={styles.viewStyle}>
-      <Image
-        source={PosesImages[poseInfo.details.ImageAudName].small}
-        resizeMode="contain"
-        style={styles.imageStyle}
-      />
-      <Text style={styles.textStyle}>{poseInfo.details.AsanaSanskrit}</Text>
-    </View>
-  );
-};
+class ListItem extends Component {
+
+  shouldComponentUpdate() {
+    return false;
+  }
+
+  render() {
+    console.log("ListItem render...");
+    return (
+      <View style={styles.viewStyle}>
+        <Image
+          source={PosesImages[this.props.poseInfo.details.ImageAudName].small}
+          resizeMode="contain"
+          style={styles.imageStyle}
+        />
+        <Text style={styles.textStyle}>{this.props.poseInfo.details.AsanaSanskrit}</Text>
+      </View>
+    );
+  };
+}
 
 const styles = StyleSheet.create({
   viewStyle: {

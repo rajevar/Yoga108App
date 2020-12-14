@@ -3,6 +3,8 @@ app > assets > images
              > poses
     > components > *.js
 
+
+
 -- Android setup --
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/emulator
@@ -22,4 +24,6 @@ react-native link react-native-sound
 
 npm install react-native-fast-image // this may not work..uninstall if its not being used.
 
+$ adb devices
 $ npx react-native run-android
+$

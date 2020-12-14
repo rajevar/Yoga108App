@@ -1,9 +1,10 @@
 const Sound = require('react-native-sound');
 
+var s;
 function AudioPlayer(fileName) {
 
   console.log("fileNAme is " + fileName);
-  let s = new Sound(fileName, Sound.MAIN_BUNDLE, (e) => {
+  s = new Sound(fileName, Sound.MAIN_BUNDLE, (e) => {
     if (e) {
       console.log('error', e);
     } else {
@@ -14,7 +15,12 @@ function AudioPlayer(fileName) {
       })
     }
   });
+}
 
+export function release() {
+  if (s) {
+    s.release();
+  }
 }
 
 export default AudioPlayer;
