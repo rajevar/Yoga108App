@@ -1,22 +1,14 @@
-import {createAppContainer} from 'react-navigation';
-import {createStackNavigator} from 'react-navigation-stack';
-import NamesList from './app/components/NamesList';
-import DisplayPose from './app/components/DisplayPose';
-import Hello from './app/components/Hello';
+import { createAppContainer } from 'react-navigation';
+import { NavigationContainer } from '@react-navigation/native';
+import React from 'react';
+import MyStack from './app/components/AppStack';
 
-// Navigation routes
-const navigator = createStackNavigator(
-  {
-    NamesList: NamesList,
-    DisplayPose: DisplayPose,
-    Hello: Hello,
-  },
-  {
-    initialRouteName: 'NamesList',
-    defaultNavigationOptions: {
-      title: 'Poses',
-    },
-  },
-);
+function App() {
+  return (
+    <NavigationContainer>
+      <MyStack />
+    </NavigationContainer>
+  );
+}
 
-export default createAppContainer(navigator);
+export default App;
