@@ -12,17 +12,18 @@ import NamesDictionary from '../assets/NamesDictionary.json';
 import Constants from './Constants.js';
 import GestureRecognizer from 'react-native-swipe-gestures';
 import Play, { release } from './common/AudioPlayer.js';
+import { speakerImages } from './Constants.js';
 
 const screenWidth = Math.round(Dimensions.get('window').width);
 const screenHeight = Math.round(Dimensions.get('window').height);
 console.log('w > ' + screenWidth + ' | h > ' + screenHeight);
 
-const DisplayPose = ({ navigation }) => {
-  const speakerImage = require('../assets/images/speaker.png');
-  const tortiseImage = require('../assets/images/tortoise.png');
+const DisplayPose = ({ route, navigation }) => {
+  const speaker = speakerImages().speaker;
+  const tortoise = speakerImages().tortoise;
 
-  const [poseInfo, setPoseInfo] = useState(navigation.getParam('item'));
-  const [poseIndex, setPoseIndex] = useState(navigation.getParam('index'));
+  const [poseInfo, setPoseInfo] = useState(route.params.item);
+  const [poseIndex, setPoseIndex] = useState(route.params.index);
 
   useEffect(() => {
     console.log("useEffect DisplayPose " + poseInfo.details.AsanaSanskrit);
@@ -68,10 +69,10 @@ const DisplayPose = ({ navigation }) => {
         <Image source={imageSource()} resizeMode="contain" style={styles.imageStyle} />
         <View style={styles.spakerView}>
           <TouchableOpacity onPress={() => playSound('nornal')}>
-            <Image source={speakerImage} key="speaker" />
+            <Image source={speaker} key="speaker" />
           </TouchableOpacity>
           <TouchableOpacity onPress={() => playSound('slow')}>
-            <Image source={tortiseImage} key="tortise" />
+            <Image source={tortoise} key="tortise" />
           </TouchableOpacity>
         </View>
       </View>

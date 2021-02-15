@@ -1,6 +1,5 @@
 import React, { Component, PureComponent } from 'react';
 import { View, Text, Image, StyleSheet } from 'react-native';
-import PosesImages from './PosesImages';
 
 class ListItem extends Component {
 

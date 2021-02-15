@@ -1,25 +1,24 @@
 const Sound = require('react-native-sound');
 
-var s;
+var sound;
 function AudioPlayer(fileName) {
-
   console.log("fileNAme is " + fileName);
-  s = new Sound(fileName, Sound.MAIN_BUNDLE, (e) => {
+  sound = new Sound(fileName, Sound.MAIN_BUNDLE, (e) => {
     if (e) {
       console.log('error', e);
     } else {
       console.log(" ---> play");
-      s.play(() => {
+      sound.play(() => {
         console.log(" <--- release");
-        s.release()
+        sound.release()
       })
     }
   });
 }
 
 export function release() {
-  if (s) {
-    s.release();
+  if (sound) {
+    sound.release();
   }
 }
 
